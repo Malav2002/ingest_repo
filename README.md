@@ -773,7 +773,7 @@ This project is part of the **Otto** software engineering project management sys
 For issues and questions:
 
 -   Open an issue on GitHub
--   Contact: malav.patel@northeastern.edu
+-   Contact: me
 
 * * * * *
 
