@@ -145,7 +145,7 @@ class CodeChunker:
         
         return {
             'repo_name': metadata['repo'],
-            'description': metadata.get('repo_info', {}).get('description', '')[:200],
+            'description': metadata.get('repo_info', {}).get('description', ''),
             'primary_language': metadata.get('repo_info', {}).get('language', 'Unknown'),
             'total_files': metadata['total_files'],
             'languages': languages,
